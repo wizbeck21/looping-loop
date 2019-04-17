@@ -25,18 +25,17 @@ your Terminal. Use `Control`+`C` to break out of the loop in your terminal.
 This is the first in a series of short exercises to help you get the hang of
 looping constructs.
 
-1. Fork and clone this lab.
-2. There are no tests for this lab! Code your solution in `looping.rb`:
+1. There are no tests for this lab, so code your solution in `looping.rb`:
 
-   - It's your first year at Hogwarts and you're having a tough time getting the
-     hang of that levitation spell. Fill out the content of the method `looping`
-     to contain a `loop` that `puts` the levitation charm `"Wingardium Leviosa"`
+   - It's your first class in driving school and you're trying to remember important
+   rules of the road. Fill out the content of the method `looping` to contain a `loop`
+   that `puts` the phrase `"Never pass a school bus if it has flashing red lights"`
      an infinite number of times.
 
    - Beneath your method definition, call your method by typing the name of the
      method, `looping`.
 
-3. Then, run the file by typing `ruby looping.rb` in your terminal from the
+2. Then, run the file by typing `ruby looping.rb` in your terminal from the
    directory of this lab. You'll be stuck in an infinite levitation loop! Hit
    `Control`+`C` to exit the infinite loop.
 
